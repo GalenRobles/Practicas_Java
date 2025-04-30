@@ -1,0 +1,7 @@
+C:\Users\trcuser\Documents\TEC\Semestre 1\ProgramaSenoK\ProgramaSenoK\bin\Debug\ProgramaSenoK.exe.config
+C:\Users\trcuser\Documents\TEC\Semestre 1\ProgramaSenoK\ProgramaSenoK\bin\Debug\ProgramaSenoK.exe
+C:\Users\trcuser\Documents\TEC\Semestre 1\ProgramaSenoK\ProgramaSenoK\bin\Debug\ProgramaSenoK.pdb
+C:\Users\trcuser\Documents\TEC\Semestre 1\ProgramaSenoK\ProgramaSenoK\obj\Debug\ProgramaSenoK.csproj.AssemblyReference.cache
+C:\Users\trcuser\Documents\TEC\Semestre 1\ProgramaSenoK\ProgramaSenoK\obj\Debug\ProgramaSenoK.csproj.CoreCompileInputs.cache
+C:\Users\trcuser\Documents\TEC\Semestre 1\ProgramaSenoK\ProgramaSenoK\obj\Debug\ProgramaSenoK.exe
+C:\Users\trcuser\Documents\TEC\Semestre 1\ProgramaSenoK\ProgramaSenoK\obj\Debug\ProgramaSenoK.pdb
