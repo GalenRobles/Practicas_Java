@@ -19,6 +19,7 @@ public class Ejercicio15 {
         // TODO code application logic here
         Scanner input = new Scanner(System.in);
         int voto, contv=0,cont1=0,cont2=0,cont3=0,cont4=0;
+        double porc1,porc2,porc3,porc4;
         do{
             System.out.println("ingresa tu voto");
             voto=input.nextInt();
@@ -45,12 +46,20 @@ public class Ejercicio15 {
            
        
         }while(voto!=0);
-        System.out.println("el total de votos de cada candidato fue de "+contv);
-        System.out.println("Candidato 1 fue "+cont1);
-        System.out.println("Candidato 2 fue "+cont2);
-        System.out.println("Candidato 3 fue "+cont3);
-        System.out.println("Candidato 4 fue "+cont4);
+       
+            porc1=(cont1*100)/contv;
+            porc2=(cont2*100)/contv;
+            porc3=(cont3*100)/contv;
+            porc4=(cont4*100)/contv;
+            
+              System.out.println("el total de votos de cada candidato fue de "+contv);
+        System.out.println("Candidato 1 fue "+cont1+" porcentaje "+porc1);
+        System.out.println("Candidato 2 fue "+cont2+" porcentaje "+porc2);
+        System.out.println("Candidato 3 fue "+cont3+" porcentaje "+porc3);
+        System.out.println("Candidato 4 fue "+cont4+" porcentaje "+porc4);
+        }
+       
         
     }
     
-}
+
