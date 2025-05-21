@@ -27,7 +27,7 @@ public class Ej1_Estructuras_Repetitivas {
                             res+=num;
             }
         }
-        System.out.println("tu resultado es "+res);
+        System.out.println("tu resultado es "+res +"ROBLES PICAZO GRECIA GENESIS");
     }
     
 }

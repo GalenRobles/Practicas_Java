@@ -43,6 +43,7 @@ public class EjercicioTarea2 {
             System.out.println("Total de puntos: "+totap);
             System.out.println("Nivel de anotacion "+anot);
             totap=0;
+            System.out.println("Robles Picazo Grecia Genesis");
         }
         
     }

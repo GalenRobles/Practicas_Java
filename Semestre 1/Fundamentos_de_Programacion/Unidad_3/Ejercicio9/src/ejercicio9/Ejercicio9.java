@@ -33,6 +33,7 @@ public class Ejercicio9 {
         }
 
         System.out.println("Suma total: " + suma);
+        System.out.println("Robles Picazo Grecia Genesis");
     }
     
 }

@@ -47,6 +47,7 @@ public class Ejercicio4 {
             System.out.println("Tu cantidad de ventas grandes fue de "+h);
             System.out.println("Total de $ "+vg);
             System.out.println("El total de ventas fue "+total);
+            System.out.println("ROBLES PICAZO GRECIA GENESIS");
     }
     }
     

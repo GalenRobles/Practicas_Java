@@ -22,6 +22,7 @@ public class Ejercicio6 {
             c++;
         System.out.println(f);
         }
+        System.out.println("ROBLES PICAZO GRECIA GENESIS");
     }
     
 }

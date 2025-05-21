@@ -20,7 +20,6 @@ public class Ejercicio17 {
         Scanner input = new Scanner(System.in);
         int tipo, min,llam=0, cant=0, cantI=0,cantN=0,cantL=0, salida=0;
         double costo=0.0, costoT=0.0,costoN=0.0, costoI=0.0,costoL=0.0;
-       
         do{
              System.out.println("Ingresa el tipo de llamada a realizar");
         System.out.println("1-. Internacional");
@@ -35,7 +34,6 @@ public class Ejercicio17 {
             System.out.println("ingresa los minutos");
             min=input.nextInt();
             switch(tipo){
-                
                 case 1 -> {
                     costo = min * 7.59;
                 if(min > 3) {
@@ -80,8 +78,8 @@ public class Ejercicio17 {
         System.out.println("Costo por llamada nacional "+costoN);
         System.out.println("Costo por llamada local "+costoL);
         System.out.println("Costo total"+costoT);
-
-        
+        System.out.println("Robles Picazo Grecia Genesis");
+  
     }
     
 }

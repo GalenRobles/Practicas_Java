@@ -36,6 +36,7 @@ public class Ejercicio14 {
             opc=input.nextInt();
         }while(opc==1);
         System.out.println("el total de nomina fue de "+sum);
+        System.out.println("Robles Picazo Grecia Genesis");
     }
     
 }

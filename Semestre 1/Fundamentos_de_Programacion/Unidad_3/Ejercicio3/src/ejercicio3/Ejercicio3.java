@@ -25,7 +25,9 @@ public class Ejercicio3 {
         for( int i=1; i<=10;i++){
             res=n*i;
                    System.out.println(n + " x " + i + " = " + res);
+                   
         }
+        System.out.println("\"ROBLES PICAZO GRECIA GENESIS\"");
         }
     
 }

@@ -31,6 +31,7 @@ public class Ejercicio16 {
             System.out.println(num); 
         }while(num!=1);
         System.out.println(num);
+        System.out.println("Robles Picazo Grecia Genesis");
     }
     
 }

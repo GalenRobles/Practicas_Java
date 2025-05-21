@@ -34,7 +34,11 @@ public class Ejercicio5 {
             }
             pro+=n/10;
         }
-        System.out.println("la cantidad de numeros positivos es de "+p+ " la cantidad de numeros negativos es de "+ne+" la cantidad de numeros nulos es de  "+nu+" el promedio es de "+pro);
+        System.out.println("la cantidad de numeros positivos es de "+p) ;
+        System.out.println("la cantidad de numeros negativos es de"+ne);
+        System.out.println("la cantidad de numeros nulos es de"+nu);
+        System.out.println("el promedio es de " +pro);
+        System.out.println("ROBLES PICAZO GRECIA GENESIS");
     }
     
 }

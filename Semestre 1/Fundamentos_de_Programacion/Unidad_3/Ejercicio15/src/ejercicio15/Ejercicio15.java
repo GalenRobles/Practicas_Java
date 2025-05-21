@@ -57,6 +57,7 @@ public class Ejercicio15 {
         System.out.println("Candidato 2 fue "+cont2+" porcentaje "+porc2);
         System.out.println("Candidato 3 fue "+cont3+" porcentaje "+porc3);
         System.out.println("Candidato 4 fue "+cont4+" porcentaje "+porc4);
+        System.out.println("ROBLES PICAZO GRECIA GENESIS");
         }
        
         

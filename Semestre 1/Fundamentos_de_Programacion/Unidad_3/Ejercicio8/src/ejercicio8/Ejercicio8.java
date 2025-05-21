@@ -35,5 +35,6 @@ public class Ejercicio8 {
             }
         }
         System.out.println(sm+" "+nem);
+        System.out.println("Robles Picazo Grecia Genesis");
     }
 }

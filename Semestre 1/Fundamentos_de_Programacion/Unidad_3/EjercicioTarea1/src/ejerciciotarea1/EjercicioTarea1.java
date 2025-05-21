@@ -32,6 +32,7 @@ public class EjercicioTarea1 {
                 System.out.println(i +" - 1 = "+ res);
             }
         }
+        System.out.println("Robles Picazo Grecia Genesis");
     }
 }
 
