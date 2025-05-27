@@ -26,11 +26,11 @@ public class Ejercicio19 {
         res=new int[10];
         for(int i=0; i< num2.length; i++){
             num2[i]=random.nextInt(100);
-            System.out.println(num2[i]);
+            System.out.print(" [ "+num2[i]+" ]");
             num1[i]=random.nextInt(100);
-             System.out.println(num1[i]);
+             System.out.print("[ "+num1[i]+" ]");
                     res[i]= num1[i]+num2[i];
-             System.out.println(res[i]);
+             System.out.println(" = [ "+res[i]+" ]");
         }
     
     }

@@ -24,7 +24,7 @@ public class Ejercicio23 {
                         int sumc=0;
         double [][]produccion;
         int cant;
-        System.out.println("ingresa la cantidad de empleados");
+        System.out.println("ingresa la cantidad de obreros");
         cant=input.nextInt();
                     nom=new String [cant];
                      produccion = new double[cant][6];
